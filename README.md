@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @opeyemi.
+- 👋 Hi, my name @opeyemi.
 - 👀 I am a DevOps enthusiast.
 - 🌱 I’m currently learning the use of automation tools.
 - 💞️ I’m looking to collaborate on development and automation projects.
