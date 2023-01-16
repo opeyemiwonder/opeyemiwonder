@@ -1,5 +1,5 @@
 - 👋 Hi, my name @opeyemi.
-- 👀 I am a DevOps enthusiast.
+- 👀 I am a DevOps Engineer.
 - 🌱 I’m currently learning the use of automation tools.
-- 💞️ Let's collaborate on development and automation projects.
+- 💞️ Let's collaborate on cloud development and automation projects.
 - 📫 Reach me via my LinkedIn https://www.linkedin.com/in/opeyemi-adeyemi-/
