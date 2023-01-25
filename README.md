@@ -1,5 +1,4 @@
 - 👋 Hi, my name Opeyemi Adeyemi.
 - 👀 I am a DevOps Engineer.
-- 🌱 I’m currently learning the use of automation tools.
 - 💞️ Let's collaborate on cloud development and automation projects.
 - 📫 Reach me via my LinkedIn https://www.linkedin.com/in/opeyemi-adeyemi-/
