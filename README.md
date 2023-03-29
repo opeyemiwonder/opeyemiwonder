@@ -1,5 +1,5 @@
 - 👋 Hi, my name Opeyemi Adeyemi.
 - 👀 I am a DevOps Engineer.
 - 🌱 I’m currently learning more about DevOps, DevSecOps and the cloud in general.
-- 💞️ I’m looking to collaborate on DevOps SRE and Cloud related projects.
+- 💞️ I’m looking to collaborate on DevOps,SRE and Cloud related projects.
 - 📫 Reach me via my LinkedIn https://www.linkedin.com/in/opeyemi-adeyemi-/
