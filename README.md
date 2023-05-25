@@ -1,6 +1,6 @@
-- 👋 Hi, my name Opeyemi Adeyemi.
-- 👀 I build and support cloud infrastructure ☁️.
-- ❤️ I am very passionate about tech and the cloud.
-- 🌱 I’m currently learning more about DevOps, DevSecOps and the cloud in general.
-- 💞️ I’m looking to collaborate on DevOps,SRE and Cloud related projects.
+- 👋 Hi, my name Opeyemi Adeyemi
+- 👀 I build and support cloud infrastructure ☁️
+- ❤️ I am very passionate about tech and the cloud
+- 🌱 I’m currently learning more about DevOps, DevSecOps and the cloud in general
+- 💞️ I’m looking to collaborate on DevOps,SRE and Cloud related projects
 - 📫 Reach me via adeyemiopeyemi190@yahoo.com
