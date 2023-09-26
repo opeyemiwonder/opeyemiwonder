@@ -1,4 +1,4 @@
-- 👋 Hi, my name Opeyemi Adeyemi
+- 👋 Hi, my name is Opeyemi Adeyemi
 - 👀 I build and support cloud infrastructure ☁️
 - ❤️ I am very passionate about tech and the cloud
 - 🌱 I’m currently learning more about DevOps, DevSecOps and the cloud in general
